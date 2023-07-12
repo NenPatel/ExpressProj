@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Piazzolla', serif;
+}
+.mainh{
+    color: rgb(238, 255, 0);
+}
+.main-body{
+    background-color: rgb(104, 8, 32);
+}
+.main-div,.main-div1{
+    text-align: center;
+}
+.main-div1{
+    color: red;
+    margin: 10px 0px;
+}
